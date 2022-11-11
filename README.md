@@ -2,7 +2,7 @@
 summary: 'An exercise making a banner with a button that transitions to hover & active states.'
 time: '1 hour'
 deliverables: '1 HTML file, 4 CSS files, images'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/but-em-buttons-download.zip'
+download: 'https://assets.learntheweb.courses/web-dev-3/but-em-buttons-download.zip'
 ---
 
 # But ’em buttons
